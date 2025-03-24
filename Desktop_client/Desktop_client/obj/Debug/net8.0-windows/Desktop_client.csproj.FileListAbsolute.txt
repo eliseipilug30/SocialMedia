@@ -1,0 +1,16 @@
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.Form1.resources
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.csproj.GenerateResource.cache
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.AssemblyInfoInputs.cache
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.AssemblyInfo.cs
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.csproj.CoreCompileInputs.cache
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\bin\Debug\net8.0-windows\Desktop_client.exe
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\bin\Debug\net8.0-windows\Desktop_client.deps.json
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\bin\Debug\net8.0-windows\Desktop_client.runtimeconfig.json
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\bin\Debug\net8.0-windows\Desktop_client.dll
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\bin\Debug\net8.0-windows\Desktop_client.pdb
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.dll
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\refint\Desktop_client.dll
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.pdb
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\Desktop_client.genruntimeconfig.cache
+C:\Users\Elisei\Desktop\An4\Semestrul 1\SCD\socialmedia\Desktop_client\Desktop_client\obj\Debug\net8.0-windows\ref\Desktop_client.dll

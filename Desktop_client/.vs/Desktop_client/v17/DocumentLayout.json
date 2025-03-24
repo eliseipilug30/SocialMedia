@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\desktop_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|solutionrelative:desktop_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|c:\\users\\elisei\\desktop\\an4\\semestrul 1\\scd\\socialmedia\\desktop_client\\desktop_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|solutionrelative:desktop_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|c:\\users\\elisei\\desktop\\an4\\semestrul 1\\scd\\socialmedia\\desktop_client\\desktop_client\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|solutionrelative:desktop_client\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|c:\\users\\elisei\\desktop\\an4\\semestrul 1\\scd\\socialmedia\\desktop_client\\desktop_client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|solutionrelative:desktop_client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|c:\\users\\elisei\\desktop\\an4\\semestrul 1\\scd\\socialmedia\\desktop_client\\desktop_client\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|solutionrelative:desktop_client\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|c:\\users\\elisei\\desktop\\an4\\semestrul 1\\scd\\socialmedia\\desktop_client\\desktop_client\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|solutionrelative:desktop_client\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|c:\\users\\elisei\\desktop\\an4\\semestrul 1\\scd\\socialmedia\\desktop_client\\desktop_client\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DE21C4-5546-4239-8205-E02AD9CDBDFF}|Desktop_client\\Desktop_client.csproj|solutionrelative:desktop_client\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Desktop_client\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Form1.Designer.cs",
+              "RelativeToolTip": "Desktop_client\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:23:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Form1.cs",
+              "RelativeDocumentMoniker": "Desktop_client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Form1.cs",
+              "RelativeToolTip": "Desktop_client\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:51:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Comment.cs",
+              "RelativeDocumentMoniker": "Desktop_client\\Comment.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Comment.cs",
+              "RelativeToolTip": "Desktop_client\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:49:55.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Postservice.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Postservice.cs",
+              "RelativeDocumentMoniker": "Desktop_client\\Postservice.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Postservice.cs",
+              "RelativeToolTip": "Desktop_client\\Postservice.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:49:35.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Post.cs",
+              "RelativeDocumentMoniker": "Desktop_client\\Post.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Post.cs",
+              "RelativeToolTip": "Desktop_client\\Post.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:48:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\User.cs",
+              "RelativeDocumentMoniker": "Desktop_client\\User.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\User.cs",
+              "RelativeToolTip": "Desktop_client\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:47:29.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Form1.cs",
+              "RelativeDocumentMoniker": "Desktop_client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Semestrul 1\\SCD\\socialmedia\\Desktop_client\\Desktop_client\\Form1.cs [Design]",
+              "RelativeToolTip": "Desktop_client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:39:20.42Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
